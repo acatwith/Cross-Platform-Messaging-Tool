@@ -6,11 +6,20 @@ The syntax on Windows and Linux is as follows: -msg "custom message" "custom tit
 
 **To run the tool on Linux, you first need to install it using sudo apt-get install libwxgtk3.0-gtk3-0v5 for the tool to work; otherwise, it will not function. Make sure to open the READ ME.txt text file to read the instructions on how to use it properly.**
 
-Windows 95:
+**Preview:**
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+**Windows 95:**
 
 ![Win95Screenshot](https://github.com/acatwith/Cross-Platform-Messaging-Tool/assets/151557144/d258ab41-e412-4b7e-8e8e-d6cc36eda044)
 
-Linux Mint 21.2:
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+**Linux Mint 21.2:**
+
 ![LinuxScreenshot](https://github.com/acatwith/Cross-Platform-Messaging-Tool/assets/151557144/22695688-8b1a-4529-a146-08786cd4e3f2)
 
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
