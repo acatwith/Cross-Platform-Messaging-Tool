@@ -18,7 +18,7 @@ The messaging tool creates a custom message box with an OK button, allowing user
 
 **To run the tool on Linux, it must be installed using the command: sudo apt-get install libwxgtk3.0-gtk3-0v5**
 
-**Make sure to open the READ ME.txt text file to read the instructions on how to use it properly.** To view available commands, use the following command on macOS, Linux, and Windows: -msg -help
+**Make sure to open the READ ME.txt text file to read the instructions on how to use it properly.** To view available commands, use the following command on macOS, Linux, and Windows: -help
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 **Preview:**
